@@ -18,5 +18,5 @@ provider "aws" {
 
 variable "region" {
   description = "aws-region"
-  default     = "us-oregon-2"
+  default     = "us-west-2"
 }
